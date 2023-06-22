@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background-color: #f6c59b;
+}
+
+.wrapper{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   flex-direction: column;
+   flex-direction: row;
+
+
+}
+.titulo{
+    text-align: center;
+    color: #f08080;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 40px;
+    justify-content: center;
+    margin: 100px;
+    
+}
